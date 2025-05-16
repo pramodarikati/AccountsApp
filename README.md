@@ -49,10 +49,3 @@ Error handling for network and database operations.
 
 🔔 5. Local Notifications
 On deleting an item, send a local notification showing deleted item details.
-
-📦 Deliverables
-✅ Complete Source Code – hosted on GitHub
-
-✅ APK File – ready to install and test
-
-✅ 🎥 Loom Video – walkthrough of complete app functionality
