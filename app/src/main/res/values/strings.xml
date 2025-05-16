@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AccountManager</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_pdf">Pdf</string>
+    <string name="title_image">Image</string>
+    <string name="title_search">Search</string>
+    <string name="default_web_client_id">224363653934-kis1d5ssg30jg5u9dm8deg97o1p2ieup.apps.googleusercontent.com</string>
+
+</resources>
